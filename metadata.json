@@ -1,0 +1,7 @@
+{
+  "name": "GeoPath - GPS Track & Analytics",
+  "description": "A high-end GPS path tracking application featuring real-time monitoring, device management, and AI-powered trip insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
